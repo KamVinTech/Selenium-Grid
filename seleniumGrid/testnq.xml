@@ -1,0 +1,15 @@
+<suite name="Suite">
+	<test name="Test1">
+		<classes>
+			<class name="messageModule.MessgaeModule" />
+		</classes>
+	</test>
+	<test name="test2">
+		<classes>
+			<class name="messageModule.Categories">
+			</class>
+		</classes>
+
+	</test>
+</suite> 
+ 
